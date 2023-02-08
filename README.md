@@ -20,5 +20,5 @@ I'm a iOS developer.
 
 
 ## 🛠 Skills
-Swift, SwiftUI, UIKit, Combine
+Swift, SwiftUI, UIKit, Combine, RxSwift
 
