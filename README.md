@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a backend developer.
+
 
 
 ## 🔗 Links
@@ -11,5 +11,5 @@ I'm a backend developer.
 
 
 ## 🛠 Skills
-PHP, SQL, Swift
+Swift
 
