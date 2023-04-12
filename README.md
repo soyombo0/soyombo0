@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-
+random developer
 
 
 ## 🔗 Links
@@ -11,5 +11,5 @@
 
 
 ## 🛠 Skills
-Swift
+PHP
 
