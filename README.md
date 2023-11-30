@@ -11,5 +11,5 @@ random developer
 
 
 ## 🛠 Skills
-PHP
+PHP, Laravel, Docker, k8s
 
