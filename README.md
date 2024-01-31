@@ -11,5 +11,5 @@ random developer
 
 
 ## 🛠 Skills
-PHP, Laravel, Docker, C
+PHP, Laravel, Docker, Linux
 
