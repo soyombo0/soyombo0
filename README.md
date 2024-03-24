@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-random developer
+backend developer
 
 📫 How to reach me: telegram - @soyluv, discord: soyombo
 
